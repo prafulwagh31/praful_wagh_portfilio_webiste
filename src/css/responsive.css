@@ -1,0 +1,193 @@
+@media screen and (width: 1024px) {
+    .circular-progress {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
+        width: 42%;
+        height: 733px;
+        box-shadow: 10px 10px 15px black;
+        margin-left: 59%;
+        margin-top: -83%;
+    }
+
+    .services-card {
+        margin-top: 7%;
+        width: 108%;
+        margin-left: -4%;
+        height: 465px;
+        cursor: pointer;
+    }
+
+    .certify-card {
+        margin-top: 7%;
+        width: 98%;
+        margin-left: 1%;
+        height: 465px;
+        cursor: pointer;
+    }
+
+    .project-title {
+        text-align: center;
+        font-style: italic;
+        font-family: cursive;
+        font-size: large;
+        font-weight: 300;
+    }
+
+}
+
+@media screen and (width: 768px) {
+    .circular-progress {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
+        width: 42%;
+        height: 726px;
+        box-shadow: 10px 10px 15px black;
+        margin-left: 49%;
+        margin-top: -113%;
+    }
+
+    .services-card {
+        margin-top: 7%;
+        width: 92%;
+        margin-left: 4%;
+        height: 645px;
+        cursor: pointer;
+    }
+
+    .responsive-title{
+        margin-top: 1%;
+        margin-left: 30%;
+    }
+
+    .services-button {
+        margin-left: 14%;
+        margin-top: 15%;
+
+    }
+    .services-title {
+        text-align: center;
+        font-style: italic;
+        font-family: cursive;
+        font-size: medium;
+        font-weight: 600;
+    }
+    .project-card {
+        margin-top: 4%;
+        width: 67%;
+        margin-left: 16%;
+        height: 1042px;
+        cursor: pointer;
+    }
+
+    .footer-links{
+        margin-left: 10%;
+    }
+
+    .project-title {
+        text-align: center;
+        font-style: italic;
+        font-family: cursive;
+        font-size: medium;
+        font-weight: 100;
+    }
+}
+
+@media screen and (width: 360px) {
+    .circular-progress {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: center;
+        width: 51%;
+        height: 777px;
+        box-shadow: 10px 10px 15px black;
+        margin-left: 49%;
+        margin-top: -270%;
+    }
+
+    .services-card {
+        margin-top: 7%;
+        width: 78%;
+        margin-left: -5%;
+        height: 879px;
+        cursor: pointer;
+    }
+
+    .responsive-title{
+        margin-top: 1%;
+        margin-left: 17%;
+    }
+
+    .services-button {
+        margin-left: 14%;
+        margin-top: 15%;
+
+    }
+    .services-title {
+        text-align: center;
+        font-style: italic;
+        font-family: cursive;
+        font-size: medium;
+        font-weight: 600;
+    }
+
+    .certify-card {
+        margin-top: 7%;
+        width: 2%;
+        margin-left: -6%;
+        height: 340px;
+        cursor: pointer;
+    }
+
+    .certify-button {
+        margin-left: 14%;
+        margin-top: 17%;
+    }
+
+    .certify-head-title{
+        margin-left: -31%;
+    }
+
+    .certify-title {
+        text-align: center;
+        font-style: italic;
+        font-family: cursive;
+        font-size: medium;
+        font-weight: 100;
+    }
+
+    .project-card {
+        margin-top: 4%;
+        width: 69%;
+        margin-left: 13%;
+        height: 385px;
+        cursor: pointer;
+    }
+
+    .project-title{
+        text-align: center;
+        font-style: italic;
+        font-family: cursive;
+        font-size: xx-small;
+        font-weight: 100;
+    }
+
+    .project-head-title{
+        text-align: center;
+        font-style: italic;
+        font-family: cursive;
+        font-size: xx-large;
+        font-weight: 600;
+    }
+
+    .footer-content{
+        margin-left: 7%;
+    }
+}
